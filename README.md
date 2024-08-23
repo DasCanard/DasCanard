@@ -17,7 +17,8 @@
 
 ###
 
-<p align="left">I'm Richy from Germany<br><br>- 🔭 I’m working as a DevOps engineer in medical care<br>- 📚 I'm currently learning VMWare Tanzu, DMZ, Orchestration<br>- ⚡ In my free time I do</p>
+<p align="left">I'm Richy from Germany<br><br>- 🔭 I’m working as a DevOps engineer in medical care<br>- 📚 I'm currently learning VMWare Tanzu, DMZ, Orchestration
+  <!---<br>- ⚡ In my free time I do</p> --->
 
 ###
 
